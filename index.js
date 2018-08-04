@@ -16,3 +16,6 @@ function destructivelyRemoveFirstKitten(array){
   kittens.shift([0])
   return array
 }
+function addElementToEndOfArray(array, element){
+  return [...array, element];
+}
