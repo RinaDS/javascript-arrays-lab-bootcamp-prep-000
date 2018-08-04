@@ -5,7 +5,7 @@ function destructivelyAppendKitten(array, element){
   return array
 }
 function destructivelyPrependKitten(array){
-  array.shift()
+  array.unshift()
   return array
 }
 function destructivelyRemoveLastKitten (array){
