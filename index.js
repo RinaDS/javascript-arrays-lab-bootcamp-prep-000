@@ -1,7 +1,7 @@
 // Add your functions and code here
 function destructivelyAppendKitten(array, element){
   var kitten = ["Milo", "Otis", "Garfield"];
-  array.push("Ralph")
+  array.push()
   return array
 }
 function destructivelyPrependKitten(array){
