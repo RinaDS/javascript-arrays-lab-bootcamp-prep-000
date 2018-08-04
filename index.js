@@ -4,3 +4,7 @@ function destructivelyAppendKitten(array, element){
   array.push(kitten)
   return array
 }
+function destructivelyPrependKitten(array){
+  array.shift()
+  return array
+}
