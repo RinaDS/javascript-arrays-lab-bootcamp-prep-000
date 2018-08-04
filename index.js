@@ -9,6 +9,6 @@ function destructivelyPrependKitten(array){
   return array
 }
 function destructivelyRemoveLastKitten (array){
-  array.pop();
-  return array
+  return array.pop();
+  
 }
