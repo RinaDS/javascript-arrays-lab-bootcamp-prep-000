@@ -8,3 +8,7 @@ function destructivelyPrependKitten(array){
   array.shift()
   return array
 }
+function destructivelyRemoveLastKitten (array){
+  array.pop();
+  return array
+}
