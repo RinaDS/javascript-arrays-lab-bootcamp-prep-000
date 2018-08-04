@@ -11,5 +11,4 @@ function destructivelyPrependKitten(array){
 function destructivelyRemoveLastKitten (array){
   kittens.pop("Garfield")
   return array
-  
 }
