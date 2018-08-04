@@ -12,3 +12,7 @@ function destructivelyRemoveLastKitten (array){
   kittens.pop("Garfield")
   return array
 }
+function destructivelyRemoveFirstKitten(array){
+  kittens.shift(element)
+  return array
+}
