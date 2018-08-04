@@ -1,5 +1,5 @@
 // Add your functions and code here
-var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+var kitten = ["Milo", "Otis", "Garfield"];
 function destructivelyAppendKitten(array, element){
   
 }
