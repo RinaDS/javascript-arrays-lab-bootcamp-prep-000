@@ -5,7 +5,7 @@ function destructivelyAppendKitten(array, element){
   return array
 }
 function destructivelyPrependKitten(array){
-  kittens.unshift(element)
+  kittens.unshift("Bob")
   return array
 }
 function destructivelyRemoveLastKitten (array){
